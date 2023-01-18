@@ -4,4 +4,6 @@ A unique vertical axis wind turbine based on the Darrius Model which has the abi
 * -Autodesk Inventor was used to design and optimize the model using deflection simulations.
 * -Winning design of the 1P13 Renewable Technology Challenge.
 
-![image](https://user-images.githubusercontent.com/75918217/212457857-892f9129-af8f-4539-8c0e-6cc4269044e9.png)
+Render: https://sketchfab.com/3d-models/mon-24-p1-bonus-6bf1aa2047d44252a0240cbbef3a2f7a
+
+![customwindturbine](https://user-images.githubusercontent.com/75918217/213060140-d712b8ad-5404-4cea-9d6e-696d37a86b2e.png)
