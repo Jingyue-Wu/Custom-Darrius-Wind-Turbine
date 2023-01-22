@@ -1,7 +1,9 @@
 # Custom-Darrius-Wind-Turbine
 **Winning design of the ENGINEER 1P13 Renewable Technology Challenge.**
 
-A unique vertical axis wind turbine blade system based on the Darrius Model which has the ability to intake wind from all directions. Designed and optimized using Autodesk Inventor.
+A unique vertical axis wind turbine based on the Darrius Model which has the ability to intake wind from all directions and maximizes efficiency in wind farms. 
+* -Design minimizes materials, making it much more cost effective and versatile compared to traditional turbines.
+* -Autodesk Inventor was used to design and optimize the model using deflection simulations.
 
 Render: https://sketchfab.com/3d-models/mon-24-p1-bonus-6bf1aa2047d44252a0240cbbef3a2f7a
 
